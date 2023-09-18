@@ -1,0 +1,24 @@
+.navbar {
+  display: flex;
+  padding: 0.5rem;
+  justify-content: space-between;
+  align-items: center;
+  height: 2rem;
+}
+
+.contents {
+  display: flex;
+  gap: 1rem;
+}
+.navLinks {
+  display: flex;
+  gap: 1rem;
+  text-decoration: none;
+}
+.navLink {
+  text-decoration: none;
+  color: black;
+}
+.cartCount {
+  font-weight: bold;
+}
